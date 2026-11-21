@@ -1,0 +1,375 @@
+[
+  {
+    "id": "custom.tv-imaan",
+    "name": "TV Imaan",
+    "image": "/channel-logos/tv-imaan.svg",
+    "logo": "/channel-logos/tv-imaan.svg",
+    "featured": true,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "TV Imaan",
+      "Imaan TV"
+    ],
+    "streams": [
+      {
+        "url": "http://exclusifott.pro/play/live.php?mac=00:1A:79:C6:84:32&stream=2073313&extension=ts&play_token=j3vK5XRz1c",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.zbc-2",
+    "name": "ZBC 2",
+    "image": "/channel-logos/zbc-2.svg",
+    "logo": "/channel-logos/zbc-2.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "ZBC 2",
+      "ZBC2"
+    ],
+    "streams": [
+      {
+        "url": "http://exclusifott.pro/play/live.php?mac=00:1A:79:C6:84:32&stream=2073303&extension=ts&play_token=jGSho1NB6C",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.bbc-news",
+    "name": "BBC News",
+    "image": "/channel-logos/bbc-news.svg",
+    "logo": "/channel-logos/bbc-news.svg",
+    "featured": true,
+    "country": "",
+    "categories": [
+      "news"
+    ],
+    "epgNames": [
+      "BBC News",
+      "BBC News Channel"
+    ],
+    "streams": [
+      {
+        "url": "http://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.utv",
+    "name": "UTV",
+    "image": "/channel-logos/utv.svg",
+    "logo": "/channel-logos/utv.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "UTV"
+    ],
+    "streams": [
+      {
+        "url": "http://exclusifott.pro/play/live.php?mac=00:1A:79:C6:84:32&stream=2073309&extension=ts&play_token=Ip0WuRMuw9",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.sony-max",
+    "name": "Sony Max",
+    "image": "/channel-logos/sony-max.svg",
+    "logo": "/channel-logos/sony-max.svg",
+    "featured": false,
+    "country": "",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "Sony Max",
+      "Sony MAX"
+    ],
+    "streams": [
+      {
+        "url": "http://204.52.191.254/play/live.php?mac=00:1A:79:85:DC:0C&stream=717731&extension=ts&play_token=l6TImjzL75&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.kix",
+    "name": "Kix",
+    "image": "/channel-logos/kix.svg",
+    "logo": "/channel-logos/kix.svg",
+    "featured": false,
+    "country": "",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "Kix"
+    ],
+    "streams": [
+      {
+        "url": "http://exclusifott.pro/play/live.php?mac=00:1A:79:C6:84:32&stream=2073347&extension=ts&play_token=ihdFJoTumz",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.tbc-2",
+    "name": "TBC 2",
+    "image": "/channel-logos/tbc-2.svg",
+    "logo": "/channel-logos/tbc-2.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "TBC 2",
+      "TBC2"
+    ],
+    "streams": [
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.dodoma-tv",
+    "name": "Dodoma TV",
+    "image": "/channel-logos/dodoma-tv.svg",
+    "logo": "/channel-logos/dodoma-tv.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "Dodoma TV"
+    ],
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.fix-fox",
+    "name": "Fix & Fox",
+    "image": "/channel-logos/fix-fox.svg",
+    "logo": "/channel-logos/fix-fox.svg",
+    "featured": false,
+    "country": "",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "Fix & Fox",
+      "Fix and Fox"
+    ],
+    "streams": [
+      {
+        "url": "http://exclusifott.pro/play/live.php?mac=00:1A:79:C6:84:32&stream=2073355&extension=ts&play_token=xvkvqzEOx0",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.cartoon-network",
+    "name": "Cartoon Network",
+    "image": "/channel-logos/cartoon-network.svg",
+    "logo": "/channel-logos/cartoon-network.svg",
+    "featured": false,
+    "country": "",
+    "categories": [
+      "kids"
+    ],
+    "epgNames": [
+      "Cartoon Network"
+    ],
+    "streams": [
+      {
+        "url": "http://exclusifott.pro/play/live.php?mac=00:1A:79:C6:84:32&stream=2073370&extension=ts&play_token=K7b784etzC",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.mbc-3",
+    "name": "MBC 3",
+    "image": "/channel-logos/mbc-3.svg",
+    "logo": "/channel-logos/mbc-3.svg",
+    "featured": true,
+    "country": "TZ",
+    "categories": [
+      "kids"
+    ],
+    "epgNames": [
+      "MBC 3",
+      "MBC3"
+    ],
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.azam-one",
+    "name": "Azam One",
+    "image": "/channel-logos/azam-one.svg",
+    "logo": "/channel-logos/azam-one.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "Azam One",
+      "Azam1"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991732&extension=ts&play_token=EdenzOkJJs&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.azam-two",
+    "name": "Azam Two",
+    "image": "/channel-logos/azam-two.svg",
+    "logo": "/channel-logos/azam-two.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "entertainment"
+    ],
+    "epgNames": [
+      "Azam Two",
+      "Azam2"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991731&extension=ts&play_token=rPPd8pg4t8&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.azam-sports-1",
+    "name": "Azam Sports 1",
+    "image": "/channel-logos/azam-sports-1.svg",
+    "logo": "/channel-logos/azam-sports-1.svg",
+    "featured": true,
+    "country": "TZ",
+    "categories": [
+      "sports"
+    ],
+    "epgNames": [
+      "Azam Sports 1",
+      "Azam Sports HD 1"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991736&extension=ts&play_token=SvXXfGDYi9&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.azam-sports-2",
+    "name": "Azam Sports 2",
+    "image": "/channel-logos/azam-sports-2.svg",
+    "logo": "/channel-logos/azam-sports-2.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "sports"
+    ],
+    "epgNames": [
+      "Azam Sports 2",
+      "Azam Sports HD 2"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991735&extension=ts&play_token=9GWxxHDYNv&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.azam-sports-3",
+    "name": "Azam Sports 3",
+    "image": "/channel-logos/azam-sports-3.svg",
+    "logo": "/channel-logos/azam-sports-3.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "sports"
+    ],
+    "epgNames": [
+      "Azam Sports 3",
+      "Azam Sports HD 3"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991734&extension=ts&play_token=3IUruOSZCO&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.azam-sports-4",
+    "name": "Azam Sports 4",
+    "image": "/channel-logos/azam-sports-4.svg",
+    "logo": "/channel-logos/azam-sports-4.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "sports"
+    ],
+    "epgNames": [
+      "Azam Sports 4",
+      "Azam Sports HD 4"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991733&extension=ts&play_token=ljTctSetBj&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  },
+  {
+    "id": "custom.sinema-zetu",
+    "name": "Sinema Zetu",
+    "image": "/channel-logos/sinema-zetu.svg",
+    "logo": "/channel-logos/sinema-zetu.svg",
+    "featured": false,
+    "country": "TZ",
+    "categories": [
+      "movies"
+    ],
+    "epgNames": [
+      "Sinema Zetu"
+    ],
+    "streams": [
+      {
+        "url": "http://ffg.gogo8k.me/play/live.php?mac=00:1A:79:CC:C6:DC&stream=1991670&extension=ts&play_token=P8dQ2f4qGo&sn2=",
+        "title": "Main stream"
+      }
+    ]
+  }
+]
