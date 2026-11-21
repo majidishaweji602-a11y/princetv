@@ -98,7 +98,6 @@ export default function VideoPlayer({ sources, title, poster, live, startAt, aut
         fragLoadingTimeOut: 30000,
         fragLoadingMaxRetry: 5,
         fragLoadingRetryDelay: 1000,
-        fragLoadingRetryDelayMax: 8000,
       });
       hlsRef.current = hls;
       hls.loadSource(src.url);
